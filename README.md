@@ -1,4 +1,4 @@
-# large-language-models-are-echochambers
+# Large Language Models Are Echo Chambers 
 
 Dataset to the LREC-COLING-2024 paper "Large Language Models are Echo Chambers". We publish our data free for research use.
 
